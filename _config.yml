@@ -4,8 +4,8 @@
 
 # Site
 title: jslee's blog
-subtitle: 보안 전문가를 꿈꾸는 초보 개발자
-description:
+subtitle: Develop, InfoSec & Life
+description: 정보보안 전문가를 꿈꾸는 20살 초보 개발자
 keywords:
 author: Jaeseok Lee
 language: ko
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -73,10 +73,29 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/jslee00/jslee00.github.io
+
+# Feed
+feed:
+  type: atom
+  path: feed.xml
+  limit: 20
+
+# Algolia
+algolia:
+  applicationID: "THO29M2ABV"
+  apiKey: "28648eb90af9c05ac06b7f01b0043964"
+  chunkSize: 5000
+  indexName: "jslee-blog"
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
