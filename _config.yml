@@ -89,13 +89,15 @@ feed:
 
 # Algolia
 algolia:
-  applicationID: "THO29M2ABV"
-  apiKey: "28648eb90af9c05ac06b7f01b0043964"
+  applicationID: THO29M2ABV
+  appId: THO29M2ABV
+  apiKey: 28648eb90af9c05ac06b7f01b0043964
+  adminApiKey: 28648eb90af9c05ac06b7f01b0043964
   chunkSize: 5000
   indexName: "jslee-blog"
-
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
+  fields:
+    - content:strip:truncate,0,500
+    - title
+    - tags
+    - categories
+    - date
