@@ -83,7 +83,7 @@ footer:
     icp:
 
   # Any custom text can be defined here.
-  #custom_text: Hosted by <a href="https://pages.coding.me" class="theme-link" rel="noopener" target="_blank">Coding Pages</a>
+  custom_text: Hosted by <a href="https://github.com/jslee00/jslee00.github.io" class="theme-link" rel="noopener" target="_blank">GitHub Pages</a><br>jslee's blog v1.0.0.${JENKINS_BUILDNUM}
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
@@ -312,8 +312,8 @@ excerpt_description: true
 # Automatically Excerpt (Not recommend).
 # Use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: true
-  length: 200
+ enable: false
+ length: 200
 
 # Read more button
 # If true, the read more button would be displayed in excerpt section.
