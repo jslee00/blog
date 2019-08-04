@@ -12,7 +12,11 @@ tags:
 
 ## 개요
 
+{% asset_img "java-jdk-logo.jpg" 300 %}
+
 CentOS 환경에 Java를 설치하는 방법을 정리한다.
+
+<!-- more -->
 
 ## OpenJDK
 

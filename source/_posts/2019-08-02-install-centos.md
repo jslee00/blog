@@ -10,15 +10,15 @@ tags:
 
 ## 개요
 
-{% asset_img "centos_logo.png" 200 200 "CentOS Logo" %}
+{% asset_img "centos-logo.png" 200 %}
 
 운영체제 CentOS를 설치하는 방법을 정리한다.
+
+<!-- more -->
 
 ### 버전
 
 2019년 07월 29일 기준으로 최신 버전인 CentOS 7 1810 버전을 이용하여 설명한다.
-
-<!-- more -->
 
 ## CentOS 다운로드
 

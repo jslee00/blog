@@ -11,7 +11,11 @@ tags:
 
 ## 개요
 
+{% asset_img "docker-logo.png" 250 %}
+
 CentOS에 Docker를 설치하는 방법을 정리한다.
+
+<!-- more -->
 
 ## 설치
 
@@ -22,8 +26,6 @@ CentOS에 Docker를 설치하는 방법을 정리한다.
 ```bash
 sudo yum update -y
 ```
-
-<!-- more -->
 
 ### Docker 설치
 
