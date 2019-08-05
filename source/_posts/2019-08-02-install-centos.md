@@ -1,7 +1,7 @@
 ---
 title: CentOS 설치하기
 date: 2019-08-02 04:43:35
-updated:
+updated: 2019-08-04 14:15:25
 categories:
   - 시스템 구축
 tags:
@@ -10,15 +10,15 @@ tags:
 
 ## 개요
 
-{% asset_img "centos_logo.png" 200 200 "CentOS Logo" %}
+{% asset_img "centos-logo.png" 200 %}
 
 운영체제 CentOS를 설치하는 방법을 정리한다.
 
+<!-- more -->
+
 ### 버전
 
-2019/07/29 시점에서 최신 버전인 CentOS 7 1810 버전을 기준으로 설명한다.
-
-<!-- more -->
+2019년 07월 29일 기준으로 최신 버전인 CentOS 7 1810 버전을 이용하여 설명한다.
 
 ## CentOS 다운로드
 
