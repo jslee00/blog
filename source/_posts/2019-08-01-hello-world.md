@@ -3,7 +3,8 @@ title: Hello World
 date: 2019-08-01 00:00:00
 updated: 2019-08-01 16:37:38
 categories:
-  - uncategorized
+  - 잡담
+tags:
 ---
 
 ## Hexo로 블로그 만들었다
