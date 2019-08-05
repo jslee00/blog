@@ -12,7 +12,7 @@ tags:
 
 ## 개요
 
-{% asset_img "kafka-logo.png" 300 %}
+{% asset_img "kafka-logo.png" 200 %}
 
 Docker를 이용하여 Kafka와 Zookeeper 서비스를 구동하는 방법을 정리한다.
 
