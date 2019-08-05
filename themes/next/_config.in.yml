@@ -83,7 +83,7 @@ footer:
     icp:
 
   # Any custom text can be defined here.
-  custom_text: Hosted by <a href="https://github.com/jslee00/jslee00.github.io" class="theme-link" rel="noopener" target="_blank">GitHub Pages</a><br>jslee's blog v___VERSION___<br><br>Icons made by Smashicons is licensed by CC 3.0 BY
+  custom_text: Icons made by Smashicons CC 3.0 BY<br>Hosted by <a href="https://github.com/jslee00/jslee00.github.io" class="theme-link" rel="noopener" target="_blank">GitHub Pages</a><br>jslee's blog v___VERSION___
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
