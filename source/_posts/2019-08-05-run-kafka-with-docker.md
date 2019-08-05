@@ -20,7 +20,7 @@ Docker를 이용하여 Kafka와 Zookeeper 서비스를 구동하는 방법을 �
 
 ### 버전
 
-2019/07/29 시점에서 최신 버전인 Kafka 2.12-2.3.0, Zookeeper 3.5.5 버전을 기준으로 설명한다.
+2019년 07월 29일 시점에서 최신 버전인 Kafka 2.12-2.3.0, Zookeeper 3.5.5 버전을 기준으로 설명한다.
 
 ## Docker Network 설정
 
