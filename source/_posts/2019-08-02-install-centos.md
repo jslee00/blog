@@ -10,11 +10,9 @@ tags:
 
 ## 개요
 
-운영체제 CentOS를 설치하는 방법을 정리한다.
+{% asset_img "centos_logo.png" 200 200 "CentOS Logo" %}
 
-<div style="background-color: #212121">
-{% asset_img "centos_logo_45.png" "CentOS Logo" %}
-</div>
+운영체제 CentOS를 설치하는 방법을 정리한다.
 
 ### 버전
 
