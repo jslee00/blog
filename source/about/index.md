@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2019-07-31 23:40:00
-updated: 2019-08-01 16:37:50
+updated: 2019-08-01 23:33:41
 layout: post
 comments: false
 ---
@@ -16,8 +16,8 @@ comments: false
 
 ## 경력
 
-- (현) 대한민국 육군 산업기능요원 복무 중 (2019.02.20 ~)
-- (현) Satrec Initiative Co., Ltd. 지상 3팀 사원 (2018.10.22 ~)
+- **(현) 대한민국 육군 산업기능요원 복무 중 (2019.02.20 ~)**
+- **(현) Satrec Initiative Co., Ltd. 지상 3팀 사원 (2018.10.22 ~)**
 - (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.08.01 ~ 2018.10.18)
 - (전) 대덕소프트웨어마이스터고등학교 학생회장 (2018.03.23 ~ 2019.01.11)
 - (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.01.08 ~ 2018.02.02)
@@ -26,7 +26,7 @@ comments: false
 
 ## 학력
 
-- 한양사이버대학교 해킹보안학과 재학 (2019.03.02 ~)
+- **한양사이버대학교 해킹보안학과 재학 (2019.03.02 ~)**
 - 대덕소프트웨어마이스터고등학교 졸업 (2016.03.02 ~ 2019.01.11)
 - 대전구봉중학교 졸업 (2013.03.04 ~ 2016.02.04)
 - 대전대정초등학교 졸업 (2007.03.02 ~ 2013.02.15)
@@ -36,7 +36,6 @@ comments: false
 - Load Of SQL Injection All Clear (2017.06.09 ~ 2017.06.30)
   - 요약: PHP, SQL 이용하여 SQL Injection 문제 풀이
   - [GitHub Repository](https://github.com/jslee00/writeup-los)
-
 - DSM 정보보안과 홈페이지 개발 (2017.03.10 ~ 2017.04.04)
   - 요약: HTML, CSS, JS, PHP 이용하여 간단한 홈페이지 구현
   - [GitHub Repository](https://github.com/jslee00/dsm-infosec>)
