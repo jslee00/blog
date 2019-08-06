@@ -62,10 +62,12 @@ CentOS를 설치하면 기본적으로 방화벽 소프트웨어가 실행되고
 
 이 때는 다음과 같이 방화벽에 원하는 서비스나 포트를 등록하여 문제를 해결할 수 있다.
 
-    sudo firewall-cmd --permanent --add-service=http
-    sudo firewall-cmd --permanent --add-port=8080/tcp
-    sudo firewall-cmd --reload
-    sudo firewall-cmd --permanent --list-all
+```bash
+sudo firewall-cmd --permanent --add-service=http
+sudo firewall-cmd --permanent --add-port=8080/tcp
+sudo firewall-cmd --reload
+sudo firewall-cmd --permanent --list-all
+```
 
 ### 기본 소프트웨어 설치
 
