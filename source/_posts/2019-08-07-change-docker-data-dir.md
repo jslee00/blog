@@ -1,5 +1,7 @@
 ---
 title: Docker 데이터 디렉토리 변경
+date: 2019-08-07 20:58:33
+updated:
 categories:
   - 시스템 구축
 tags:
@@ -13,6 +15,8 @@ Docker는 기본적으로 `/var/lib/docker` 디렉토리에 Docker Image 등의 
 
 따라서 Docker 데이터 디렉토리를 큰 용량을 가진 별도의 디렉토리로 변경할 필요가 있다.
 이 페이지에서는 `/home/docker` 디렉토리로 변경한다.
+
+<!-- more -->
 
 ## 방법
 
