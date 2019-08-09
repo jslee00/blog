@@ -11,16 +11,16 @@ tags:
 
 ## 개요
 
-{% asset_img "wsl-logo.png" 250 %}
+{% asset_img "wsl-logo.png" 200 %}
 
-Windows Subsystem for Linux 환경을 이용하여 Windows를 사용하며 Ubuntu도 사용하는 방법을 정리한다.
+Windows 10 버전 1607 이상에서는 가상 머신이 없이도 Linux 환경에서 작업할 수 있다.
+바로 Windows Subsystem for Linux, 줄여서 WSL이 있기 때문이다.
+
+이 글에서는 Windows Subsystem for Linux 환경을 이용하여 Windows를 사용하며 Ubuntu도 사용하는 방법을 정리한다.
 
 <!-- more -->
 
 ## 설치
-
-Windows 10 버전 1607 이상에서는 가상 머신이 없이도 Linux 환경에서 작업할 수 있다.
-바로 Windows Subsystem for Linux, 줄여서 WSL이 있기 때문이다.
 
 다음과 같은 순서로 WSL을 통해 Ubuntu를 설치할 수 있다.
 
