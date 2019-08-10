@@ -8,6 +8,7 @@ tags:
   - SSH
   - Windows
   - MobaXterm
+  - Terminal
   - X11
 ---
 
