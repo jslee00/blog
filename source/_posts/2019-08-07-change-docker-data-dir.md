@@ -1,7 +1,7 @@
 ---
 title: Docker 데이터 디렉토리 변경
 date: 2019-08-07 20:58:33
-updated:
+updated: 2019-08-11 01:50:12
 categories:
   - 시스템 구축
 tags:
@@ -9,6 +9,8 @@ tags:
 ---
 
 ## 개요
+
+{% asset_img "directory.svg" 200 %}
 
 Docker는 기본적으로 `/var/lib/docker` 디렉토리에 Docker Image 등의 데이터를 저장한다.
 이 상태로 두면 서버의 루트 용량이 적을 경우 Docker의 데이터로 인해 루트가 가득 차 각종 오류를 일으킬 수 있다.
@@ -106,5 +108,6 @@ sudo systemctl start docker
 
 ## 참고자료
 
+- [Icons made by Icongeek26 CC 3.0 BY](https://www.flaticon.com/authors/icongeek26)
 - [Docker 설치 후 이미지 보관 디렉토리 변경](http://dveamer.github.io/backend/DockerImageDirectory.html)
 - [Set Docker_Opts in centos](https://stackoverflow.com/questions/26166550/set-docker-opts-in-centos)
