@@ -32,16 +32,11 @@ SQL Injection을 통해 원하는 값을 `SELECT` 하도록 조작할 수 있는
 MySQL에는 `SELECT`절에 `LIMIT`이라는 구문을 이용하여 반환되는 행을 제한하는 기능이 있다.
 [MySQL Documentation](https://dev.mysql.com/doc/)에서 [SELECT절에 대한 문서](https://dev.mysql.com/doc/refman/5.7/en/select.html)를 찾아보면 다음과 같은 부분을 찾을 수 있다.
 
-> The LIMIT clause can be used to constrain the number of rows returned by the SELECT statement. LIMIT takes one or two numeric arguments, which must both be nonnegative integer constants, with these exceptions:
-> Within prepared statements, LIMIT parameters can be specified using ? placeholder markers.
-> Within stored programs, LIMIT parameters can be specified using integer-valued routine parameters or local variables.
-> With two arguments, the first argument specifies the offset of the first row to return, and the second specifies the maximum number of rows to return. The offset of the initial row is 0 (not 1):
->
-> ```sql
-> SELECT * FROM tbl LIMIT 5,10;  # Retrieve rows 6-15
-> ```
+```sql
+SELECT * FROM tbl LIMIT 5,10;  # Retrieve rows 6-15
+```
 
-즉, `SELECT` 절의 마지막에 `LIMIT 1,1` 을 붙이면 테이블에서 조건에 맞는(WHERE 구문이 있으면) 행 중 첫 번째 행부터가 아닌 **두 번째** 행부터 **하나의** 행만 가져오게 된다.
+즉, `SELECT` 절의 마지막에 `LIMIT 1,2` 를 붙이면 테이블에서 조건에 맞는 행 중 첫 번째(Index 0) 행부터가 아닌 **두 번째**(Index 1) 행부터 **두 개의** 행만 가져오게 된다.
 
 ### 소스 코드 분석
 
