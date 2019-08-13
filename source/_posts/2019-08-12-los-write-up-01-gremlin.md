@@ -15,7 +15,7 @@ tags:
 
 SQL Injection에 대한 지식을 쌓기 위해 [Lord of SQL Injection 사이트](https://los.eagle-jump.org/)의 문제를 풀고 해답을 정리한다.
 
-이 문서에서는 [Lord of SQL Injection 1번 gremlin 문제](https://los.eagle-jump.org/gremlin_bbc5af7bed14aa50b84986f2de742f31.php)에 대하여 정리한다.
+이 문서에서는 Lord of SQL Injection 1번 gremlin 문제에 대하여 정리한다.
 
 <!-- more -->
 
