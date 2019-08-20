@@ -88,7 +88,7 @@ if(preg_match('/prob|_|\.|\(\)/i', $_GET[id])) exit("No Hack ~_~"); // do not tr
 if(preg_match('/prob|_|\.|\(\)/i', $_GET[pw])) exit("No Hack ~_~");
 ```
 
-- GET방식으로 `id`와 `pw`를 받으며, `id`나 `pw`에 `prob`, `_`, `.`, `()` 가 들어 있으면 `No Hack ~_~`이 뜨고 문제 풀이에 실패한다.
+- GET 방식으로 `id`와 `pw`를 받으며, `id`나 `pw`에 `prob`, `_`, `.`, `()` 가 들어 있으면 `No Hack ~_~`이 뜨고 문제 풀이에 실패한다.
   - `preg_match('/prob|_|\.|\(\)/i', $_GET[id])` 는 `$_GET[id]`에서 정규표현식 `'/prob|_|\.|\(\)/i'` 을 매치한다.
   - 즉, `if(preg_match('/prob|_|\.|\(\)/i', $_GET[id])) exit("No Hack ~_~");` 이 문장을 통해 `$_GET[id]`에 `prob`, `_`, `.`, `()` 중 하나라도 들어 있으면 `No Hack ~_~`이 뜨고 문제 풀이에 실패한다.
 
