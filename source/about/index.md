@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2019-07-31 23:40:00
-updated: 2019-08-04 17:07:21
+updated: 2019-08-26 19:25:23
 layout: post
 comments: false
 ---
@@ -17,10 +17,10 @@ comments: false
 ## 경력
 
 - **(현) 대한민국 산업기능요원 (2019.02.20 ~)**
+- **(현) 대덕소프트웨어마이스터고등학교 정보보안 전공동아리 INFO 운영진 (2019.01.11 ~)**
 - **(현) Satrec Initiative Co., Ltd. 지상 3팀 사원 (2018.10.22 ~)**
-- (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.08.01 ~ 2018.10.18)
 - (전) 대덕소프트웨어마이스터고등학교 학생회장 (2018.03.23 ~ 2019.01.11)
-- (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.01.08 ~ 2018.02.02)
+- (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.01.08 ~ 2018.02.02, 2018.08.01 ~ 2018.10.18)
 - (전) 대덕소프트웨어마이스터고등학교 정보보안 전공동아리 INFO 동아리장 (2017.03.07 ~ 2019.01.11)
 - (전) 대전대정초등학교 학생회장 (2012.03.02 ~ 2013.02.28)
 
@@ -33,12 +33,27 @@ comments: false
 
 ## 프로젝트
 
+- 위성 자료 처리 소프트웨어 개발 (2018.08.01 ~)
+  - 요약: Scala, Python(numpy, netCDF4 등) 이용하여 위성 자료 처리 소프트웨어 개발
+- DSM RVMS 개발 (2018.06.21 ~ 2018.07.06)
+  - 요약: Node.js 이용하여 라즈베리파이 영상 관리 시스템 개발
+  - [rvms-rasp GitHub Repository](https://github.com/jslee00/rvms-rasp)
+  - [rvms-web-client GitHub Repository](https://github.com/jslee00/rvms-web-client)
+  - [rvms-web-server GitHub Repository](https://github.com/jslee00/rvms-web-server)
+- 웹 서비스 취약점 분석 (2018.01.08 ~ 2018.02.02)
+  - 요약: Python, Burf Suite, Wireshark, Postman 등 이용하여 OWASP Top 10을 기준으로 웹 서비스 취약점 분석
+- 리소스 모니터링 시스템 구축 (2018.01.08 ~ 2018.02.02)
+  - 요약: Topbeat, Logstash, Grafana, Elasticsearch, InfluxDB 등 이용하여 서버 리소스 모니터링 시스템 구축
+- DSM Wargame 개발 (2017.08.25 ~ 2017.10.21)
+  - 요약: PHP 이용하여 정보보안 문제풀이 사이트 구현
 - Load Of SQL Injection All Clear (2017.06.09 ~ 2017.06.30)
   - 요약: PHP, SQL 이용하여 SQL Injection 문제 풀이
   - [GitHub Repository](https://github.com/jslee00/writeup-los)
-- DSM 정보보안과 홈페이지 개발 (2017.03.10 ~ 2017.04.04)
-  - 요약: HTML, CSS, JS, PHP 이용하여 간단한 홈페이지 구현
-  - [GitHub Repository](https://github.com/jslee00/dsm-infosec>)
+- DSM 정보보안과 홈페이지 개발 (2017.03.10 ~ 2017.07.17)
+  - 요약: PHP 이용하여 간단한 홈페이지 구현
+  - [GitHub Repository](https://github.com/jslee00/dsm-infosec)
+- 3 Colors 개발 (2016.11.16 ~ 2016.12.15)
+  - 요약: HTML Canvas 이용하여 3원색을 이용한 미로 탈출 웹 게임 구현
 
 ## 활동
 
