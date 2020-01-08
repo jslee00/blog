@@ -37,7 +37,7 @@ Jekyll과 minimal-mistakes 테마를 이용해서 블로그를 구성했다.
 
 근데 그 날 밤에 게임을 하다가 친구에게 조언을 받았다.
 
-> 친구: 아직도 Jekyll로 블로그 만드는 흑우가 있다?
+> 친구: Jekyll 말고 Hexo로도 블로그 만들 수 있음
 > 나: GitHub 블로그는 다 Jekyll로 만드는 거 아니여?
 > 친구: ;; 구글에 Hexo 검색 ㄱ
 
