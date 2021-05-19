@@ -12,16 +12,13 @@ comments: false
 - E-mail: jaeseoklee00@gmail.com
 - SNS
   - [GitHub](https://github.com/jslee00)
-  - [Facebook](https://www.facebook.com/jslee00)
 
 ## 경력
 
-- **(현) 대한민국 산업기능요원 (2019.02.20 ~)**
 - **(현) Satrec Initiative Co., Ltd. 지상 3팀 사원 (2018.10.22 ~)**
 - (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.08.01 ~ 2018.10.18)
 - (전) 대덕소프트웨어마이스터고등학교 학생회장 (2018.03.23 ~ 2019.01.11)
 - (전) Satrec Initiative Co., Ltd. 지상 3팀 인턴 (2018.01.08 ~ 2018.02.02)
-- (전) 대덕소프트웨어마이스터고등학교 정보보안 전공동아리 INFO 동아리장 (2017.03.07 ~ 2019.01.11)
 - (전) 대전대정초등학교 학생회장 (2012.03.02 ~ 2013.02.28)
 
 ## 학력
